@@ -1,6 +1,4 @@
-### README.md
 
-```markdown
 # Media Agency Scraping
 
 A Python tool to scrape articles from specific media websites using Google Custom Search API. Extracts article details, stores them in a SQLite database, and exports to CSV.
